@@ -3,8 +3,6 @@ layout: default
 title: OfficePulse Growth Analytics Project
 ---
 
-End-to-end growth analytics project using Python, DuckDB and dbt to load and transform raw data into analytical marts, define key growth metrics, and generate insights across acquisition, conversion, revenue, lead cohorts and product engagement.
-
 <p align ="center">
    <img src = "officepulse/docs/images/01_porject_overview.png" width="1000">
  </p>
