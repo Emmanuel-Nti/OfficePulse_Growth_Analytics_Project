@@ -41,13 +41,13 @@ End-to-end growth analytics project using Python, DuckDB and dbt to load and tra
  💡 Display consistently achieved the strongest acquisition efficiency, outperforming Paid Search and Paid Social.
 
 <p align ="center">
-   <img src = "officepulse/docs/images/campaign_efficiency.PNG">
+   <img src = "officepulse/docs/images/campaign_efficiency.PNG" width="850">
  </p>
  
  💡 Display's strong channel performance was supported by consistently high-performing campaigns.
 
 <p align ="center">
-   <img src = "officepulse/docs/images/Channel_conversion.PNG">
+   <img src = "officepulse/docs/images/Channel_conversion.PNG" width="850">
  </p>
  
  💡 Lead-to-Opportunity conversion emerged as the primary bottleneck across acquisition channels.
