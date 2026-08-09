@@ -55,7 +55,7 @@ End-to-end growth analytics project using Python, DuckDB and dbt to load and tra
 
  💡 Monthly active users increased overall, while active companies remained relatively stable throughout the reporting period.
 
-## Recommendations and Limitations
+## Recommendations, Limitations, and Future Enhancements
 
  <p align ="center">
    <img src = "docs/images/recommendation.png">
