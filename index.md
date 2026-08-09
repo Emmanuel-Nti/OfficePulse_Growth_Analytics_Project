@@ -6,7 +6,7 @@ title: OfficePulse Growth Analytics Project
 End-to-end growth analytics project using Python, DuckDB and dbt to load and transform raw data into analytical marts, define key growth metrics, and generate insights across acquisition, conversion, revenue, lead cohorts and product engagement.
 
 <p align ="center">
-   <img src = "officepulse/docs/images/01_porject_overview.png">
+   <img src = "officepulse/docs/images/01_porject_overview.png" width="1000">
  </p>
 
 ## Project Resources
@@ -53,16 +53,17 @@ End-to-end growth analytics project using Python, DuckDB and dbt to load and tra
  💡 Lead-to-Opportunity conversion emerged as the primary bottleneck across acquisition channels.
 
 <p align ="center">
-   <img src = "officepulse/docs/images/active_users.PNG">
+   <img src = "officepulse/docs/images/active_users.PNG" width="850">
+</p>
 
  💡 Monthly active users increased overall, while active companies remained relatively stable throughout the reporting period.
 
 ## Recommendations, Limitations, and Future Enhancements
 
  <p align ="center">
-   <img src = "officepulse/docs/images/recommendation.png">
+   <img src = "officepulse/docs/images/recommendation.png" width="900">
 
   <p align ="center">
-   <img src = "officepulse/docs/images/Appendix.png">
+   <img src = "officepulse/docs/images/Appendix.png" width="900">
 
 
