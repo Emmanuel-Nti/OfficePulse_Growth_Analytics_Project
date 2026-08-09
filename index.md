@@ -1,6 +1,4 @@
 
-# dbt Data Transformation & Growth Analytics Project
- 
 End-to-end growth analytics project using Python, DuckDB and dbt to load and transform raw data into analytical marts, define key growth metrics, and generate insights across acquisition, conversion, revenue, lead cohorts and product engagement.
 
 <p align ="center">
