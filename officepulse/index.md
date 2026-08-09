@@ -18,38 +18,39 @@ End-to-end Growth Analytics project using Python, DuckDB and dbt to load and tra
   <p align ="center">
    <img src = "docs/images/cohort_performance.PNG">
  </p>
- - Marketing investment remained relatively stable across acquisition cohorts, providing a stable baseline for evaluating differences in downstream performance. Despite this, won revenue and Paid ROAS varied considerably across cohorts.
-
+ 
+💡 Marketing investment remained relatively stable across acquisition cohorts, providing a stable baseline for evaluating differences in downstream performance. Despite this, won revenue and Paid ROAS varied considerably across cohorts.
 
 <p align ="center">
    <img src = "docs/images/cohort conversion.PNG">
  </p>
- - Opportunity Win Rate exhibited a similar pattern, suggesting that cohorts with stronger opportunity conversion generally generated higher won revenue and marketing efficiency.
-
+ 
+💡 Opportunity Win Rate exhibited a similar pattern, suggesting that cohorts with stronger opportunity conversion generally generated higher won revenue and marketing efficiency.
 
 <p align ="center">
    <img src = "docs/images/channel efficiency.PNG">
  </p>
- - Display consistently achieved the strongest acquisition efficiency, outperforming Paid Search and Paid Social.
-
+ 
+ 💡 Display consistently achieved the strongest acquisition efficiency, outperforming Paid Search and Paid Social.
 
 <p align ="center">
    <img src = "docs/images/campaign efficiency.PNG">
  </p>
- - Display's strong channel performance was supported by consistently high-performing campaigns.
-
+ 
+ 💡 Display's strong channel performance was supported by consistently high-performing campaigns.
 
 <p align ="center">
    <img src = "docs/images/Channel conversion.PNG">
  </p>
- - Lead-to-Opportunity conversion emerged as the primary bottleneck across acquisition channels.
-
+ 
+ 💡 Lead-to-Opportunity conversion emerged as the primary bottleneck across acquisition channels.
 
 <p align ="center">
    <img src = "docs/images/active users.PNG">
-- Monthly active users increased overall, while active companies remained relatively stable throughout the reporting period.
 
-## Summary of findings, Recommendations, and Limitations
+ 💡 Monthly active users increased overall, while active companies remained relatively stable throughout the reporting period.
+
+## Summary of Findings, Recommendations, and Limitations
 <p align ="center">
    <img src = "docs/images/summary.png">
 
@@ -59,6 +60,6 @@ End-to-end Growth Analytics project using Python, DuckDB and dbt to load and tra
   <p align ="center">
    <img src = "docs/images/Appendix.png">
 
+#### Software and Tools
 
-
-
+![](https://img.shields.io/badge/Python-SQL-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/dbt-DuckDB-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Pandas-Plotly-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Jupyter-Notebook-informational?style=flat&color=2bbc8a)
