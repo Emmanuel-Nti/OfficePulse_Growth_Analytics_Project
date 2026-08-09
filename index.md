@@ -9,10 +9,10 @@ title: OfficePulse Growth Analytics Project
 
 ## Project Resources
 
-📘 [Detailed Analysis Notebook](https://nbviewer.org/github/Emmanuel-Nti/OfficePulse_Growth_Analytics_Project/blob/master/officepulse/notebooks/officepulse_growth_analysis.ipynb) &nbsp;&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;&nbsp; ✴️ [Interactive dbt Documentation](https://growth-analytics-dbt-docs.netlify.app/#!/overview)
+📘 [Detailed Analysis Notebook](https://nbviewer.org/github/Emmanuel-Nti/OfficePulse_Growth_Analytics_Project/blob/master/officepulse/notebooks/officepulse_growth_analysis.ipynb) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; ✴️ [Interactive dbt Documentation](https://growth-analytics-dbt-docs.netlify.app/#!/overview)
 
 
-#### Software and Tools
+## Software and Tools
 
 ![](https://img.shields.io/badge/Python-SQL-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/dbt-DuckDB-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Pandas-Plotly-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Jupyter-Notebook-informational?style=flat&color=2bbc8a)
 
@@ -20,7 +20,7 @@ title: OfficePulse Growth Analytics Project
 
 ![](https://img.shields.io/badge/Paid_ROAS-(Cohort_ROAS)-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Cost_per-Won_Opportunity-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Lead_to-Opportunity_Rate-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Opportunity-Win_Rate-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Won-Revenue-informational?style=flat&color=2bbc8a)
 
-## Insights
+## 📊 Insights
 💡 Marketing investment remained relatively stable across acquisition cohorts, providing a stable baseline for evaluating differences in downstream performance. Despite this, won revenue and Paid ROAS varied considerably across cohorts.
   <p align ="center">
    <img src = "officepulse/docs/images/cohort_performance.PNG" width="850">
@@ -52,7 +52,7 @@ title: OfficePulse Growth Analytics Project
 </p>
  
 
-## Recommendations, Limitations, and Future Enhancements
+## 🎯 Recommendations, Limitations, and Future Enhancements
 
  <p align ="center">
    <img src = "officepulse/docs/images/recommendation.png" width="900">
