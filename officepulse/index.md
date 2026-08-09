@@ -7,12 +7,17 @@ End-to-end Growth Analytics project using Python, DuckDB and dbt to load and tra
    <img src = "docs/images/01_porject_overview.png">
  </p>
 
- ## [Detailed Project Notebook Link](https://nbviewer.org/github/Emmanuel-Nti/OfficePulse_Growth_Analytics_Project/blob/master/officepulse/notebooks/officepulse_growth_analysis.ipynb) 
- 
-  - **Interactive dbt documentation:** [https://growth-analytics-dbt-docs.netlify.app/#!/overview](https://growth-analytics-dbt-docs.netlify.app/#!/overview)
+## Project Resources
 
-## 5 Key Growth Metrics (Based on the Data)
- - Paid Roas (Cohort Roas), Cost per Won Opportunity, Lead-to-Opportunity Rate, Opportunity Win Rate, Won Revenue
+📓 [Detailed Analysis Notebook](https://nbviewer.org/github/Emmanuel-Nti/OfficePulse_Growth_Analytics_Project/blob/master/officepulse/notebooks/officepulse_growth_analysis.ipynb) &nbsp;&nbsp; | &nbsp;&nbsp; 📊 [Interactive dbt Documentation](https://growth-analytics-dbt-docs.netlify.app/#!/overview)
+
+#### Software and Tools
+
+![](https://img.shields.io/badge/Python-SQL-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/dbt-DuckDB-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Pandas-Plotly-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Jupyter-Notebook-informational?style=flat&color=2bbc8a)
+
+## 5 Key Growth Metrics
+
+![](https://img.shields.io/badge/Paid_ROAS-(Cohort_ROAS)-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Cost_per-Won_Opportunity-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Lead_to-Opportunity_Rate-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Opportunity-Win_Rate-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Won-Revenue-informational?style=flat&color=2bbc8a)
 
 ## Insights
   <p align ="center">
@@ -50,9 +55,7 @@ End-to-end Growth Analytics project using Python, DuckDB and dbt to load and tra
 
  💡 Monthly active users increased overall, while active companies remained relatively stable throughout the reporting period.
 
-## Summary of Findings, Recommendations, and Limitations
-<p align ="center">
-   <img src = "docs/images/summary.png">
+## Recommendations and Limitations
 
  <p align ="center">
    <img src = "docs/images/recommendation.png">
@@ -60,6 +63,3 @@ End-to-end Growth Analytics project using Python, DuckDB and dbt to load and tra
   <p align ="center">
    <img src = "docs/images/Appendix.png">
 
-#### Software and Tools
-
-![](https://img.shields.io/badge/Python-SQL-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/dbt-DuckDB-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Pandas-Plotly-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Jupyter-Notebook-informational?style=flat&color=2bbc8a)
