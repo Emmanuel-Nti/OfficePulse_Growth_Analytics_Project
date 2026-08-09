@@ -1,5 +1,5 @@
 
-# OfficePulse Growth Analytics Project
+# dbt Data Transformation & Growth Analytics
  
 End-to-end Growth Analytics project using Python, DuckDB and dbt to load and transform raw data into analytical marts, define key growth metrics, and generate insights across acquisition, conversion, revenue, lead cohorts and product engagement.
 
