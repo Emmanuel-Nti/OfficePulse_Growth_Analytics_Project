@@ -21,12 +21,12 @@ title: OfficePulse Growth Analytics Project
 ![](https://img.shields.io/badge/Paid_ROAS-(Cohort_ROAS)-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Cost_per-Won_Opportunity-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Lead_to-Opportunity_Rate-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Opportunity-Win_Rate-informational?style=flat&color=2bbc8a) ![](https://img.shields.io/badge/Won-Revenue-informational?style=flat&color=2bbc8a)
 
 ## 📊 Insights
-💡 Marketing investment remained relatively stable across acquisition cohorts, providing a stable baseline for evaluating differences in downstream performance. Despite this, won revenue and Paid ROAS varied considerably across cohorts.
+💡 Marketing investment remained relatively stable across acquisition cohorts, providing a stable baseline for evaluating downstream performance. Despite this, Won Revenue and Paid ROAS varied considerably, while Cost per Won Opportunity peaked in April and May when ROAS was lowest and declined in higher-ROAS cohorts, highlighting substantial differences in acquisition efficiency.
   <p align ="center">
    <img src = "officepulse/docs/images/cohort_performance.PNG" width="850">
  </p>
 
-💡 Opportunity win rate exhibited a similar pattern, suggesting that cohorts with stronger opportunity conversion generally generated higher won revenue and marketing efficiency.
+💡 Opportunity Win Rate exhibited a similar pattern, suggesting that cohorts with stronger opportunity conversion generally generated higher won revenue and marketing efficiency.
 <p align ="center">
    <img src = "officepulse/docs/images/cohort_conversion.PNG">
  </p>
