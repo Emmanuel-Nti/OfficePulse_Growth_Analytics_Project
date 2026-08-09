@@ -1,0 +1,67 @@
+version: 2
+
+sources:
+
+  - name: officepulse
+
+    description: >
+      Raw datasets used for the OfficePulse growth analytics project.
+      These tables represent the original source data loaded into DuckDB.
+
+    schema: main
+
+    tables:
+
+      - name: raw_paid_ads
+
+        description: >
+          Daily paid advertising performance data containing campaign spend,
+          impressions, clicks, and attribution information.
+
+        columns:
+
+          - name: campaign_id
+            description: "Unique identifier for each marketing campaign."
+            tests:
+              - not_null
+
+          - name: date
+            description: "Date when advertising activity occurred."
+            tests:
+              - not_null
+
+      - name: raw_crm_pipeline
+
+        description: >
+          CRM funnel dataset containing leads, opportunities,
+          trials, and sales outcomes.
+
+        columns:
+
+          - name: lead_id
+            description: "Unique identifier for each lead."
+            tests:
+              - not_null
+
+          - name: company_id
+            description: "Company associated with the lead."
+            tests:
+              - not_null
+
+      - name: raw_product_usage_events
+
+        description: >
+          Product usage event data capturing customer engagement,
+          feature adoption, and seat utilisation.
+
+        columns:
+
+          - name: event_time
+            description: "Timestamp when the product event occurred."
+            tests:
+              - not_null
+
+          - name: company_id
+            description: "Company associated with the usage event."
+            tests:
+              - not_null
