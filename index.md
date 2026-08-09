@@ -29,31 +29,31 @@ End-to-end growth analytics project using Python, DuckDB and dbt to load and tra
 💡 Marketing investment remained relatively stable across acquisition cohorts, providing a stable baseline for evaluating differences in downstream performance. Despite this, won revenue and Paid ROAS varied considerably across cohorts.
 
 <p align ="center">
-   <img src = "officepulse/docs/images/cohort conversion.PNG">
+   <img src = "officepulse/docs/images/cohort_conversion.PNG">
  </p>
  
 💡 Opportunity Win Rate exhibited a similar pattern, suggesting that cohorts with stronger opportunity conversion generally generated higher won revenue and marketing efficiency.
 
 <p align ="center">
-   <img src = "officepulse/docs/images/channel efficiency.PNG", style="max-width: 100%; height: auto;">
+   <img src = "officepulse/docs/images/channel_efficiency.PNG", style="max-width: 100%; height: auto;">
  </p>
  
  💡 Display consistently achieved the strongest acquisition efficiency, outperforming Paid Search and Paid Social.
 
 <p align ="center">
-   <img src = "officepulse/docs/images/campaign efficiency.PNG">
+   <img src = "officepulse/docs/images/campaign_efficiency.PNG">
  </p>
  
  💡 Display's strong channel performance was supported by consistently high-performing campaigns.
 
 <p align ="center">
-   <img src = "officepulse/docs/images/Channel conversion.PNG">
+   <img src = "officepulse/docs/images/Channel_conversion.PNG">
  </p>
  
  💡 Lead-to-Opportunity conversion emerged as the primary bottleneck across acquisition channels.
 
 <p align ="center">
-   <img src = "officepulse/docs/images/active users.PNG">
+   <img src = "officepulse/docs/images/active_users.PNG">
 
  💡 Monthly active users increased overall, while active companies remained relatively stable throughout the reporting period.
 
