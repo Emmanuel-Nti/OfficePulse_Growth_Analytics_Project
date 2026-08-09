@@ -54,7 +54,7 @@ The project combines **dbt, DuckDB, SQL, and Python** to transform raw operation
 │   └── officepulse_growth_analysis.ipynb
 │
 ├── slides/
-│   └── officepulse_growth_analytics_presentation.pdf
+│   └── officepulse_growth_analytics_deck.pdf
 │
 ├── README.md
 ├── requirements.txt
@@ -133,7 +133,7 @@ Critical identifiers and analytical fields are validated prior to reporting and 
 
 Interactive dbt documentation:
 
-[https://emmanuel-dbt-docs.netlify.app/#!/overview](https://emmanuel-dbt-docs.netlify.app/#!/overview)
+[https://growth-analytics-dbt-docs.netlify.app/#!/overview](https://growth-analytics-dbt-docs.netlify.app/#!/overview)
 
 ---
 
