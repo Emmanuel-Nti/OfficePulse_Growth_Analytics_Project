@@ -35,7 +35,7 @@ End-to-end growth analytics project using Python, DuckDB and dbt to load and tra
 💡 Opportunity Win Rate exhibited a similar pattern, suggesting that cohorts with stronger opportunity conversion generally generated higher won revenue and marketing efficiency.
 
 <p align ="center">
-   <img src = "officepulse/docs/images/channel efficiency.PNG",width="850">
+   <img src = "officepulse/docs/images/channel efficiency.PNG", style="max-width: 100%; height: auto;">
  </p>
  
  💡 Display consistently achieved the strongest acquisition efficiency, outperforming Paid Search and Paid Social.
