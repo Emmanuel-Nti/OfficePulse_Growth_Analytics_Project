@@ -18,7 +18,7 @@ The project combines **dbt, DuckDB, SQL, and Python** to transform raw operation
 
 ## Project Resources
 
-📗 [Project Summary](https://emmanuel-nti.github.io/OfficePulse_Growth_Analytics_Project/) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📘 [Detailed Analysis Notebook](https://nbviewer.org/github/Emmanuel-Nti/OfficePulse_Growth_Analytics_Project/blob/master/officepulse/notebooks/officepulse_growth_analysis.ipynb?v=2)
+📗 [Project Summary](https://emmanuel-nti.github.io/OfficePulse_Growth_Analytics_Project/) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 📘 [Detailed Analysis Notebook](https://nbviewer.org/github/Emmanuel-Nti/OfficePulse_Growth_Analytics_Project/blob/master/officepulse/notebooks/officepulse_growth_analysis.ipynb?v=4)
 
 ## Repository Structure
 
