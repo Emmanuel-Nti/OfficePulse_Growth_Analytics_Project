@@ -26,7 +26,7 @@ title: OfficePulse Growth Analytics Project
    <img src = "officepulse/docs/images/cohort_performance.PNG" width="850">
  </p>
 
-💡 Opportunity Win Rate exhibited a similar pattern, suggesting that cohorts with stronger opportunity conversion generally generated higher won revenue and marketing efficiency.
+💡 Opportunity Win Rate exhibited a similar pattern, suggesting that cohorts with stronger opportunity conversion generally generated higher Won Revenue and marketing efficiency.
 <p align ="center">
    <img src = "officepulse/docs/images/cohort_conversion.PNG">
  </p>
