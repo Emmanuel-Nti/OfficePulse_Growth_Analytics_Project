@@ -1,6 +1,5 @@
 ---
 layout: default
-title: OfficePulse Growth Analytics Project
 ---
 
 <p align ="center">
