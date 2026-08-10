@@ -1,6 +1,9 @@
 theme: jekyll-theme-hacker
 
-title:The Growth Analytics Pipeline: From Data Modeling to Insights
-description: End-to-end growth analytics project using Python, DuckDB and dbt to load and transform raw data into analytical marts, define key growth metrics, and generate insights across acquisition, conversion, revenue, and product engagement for a fictional SaaS platform helping organizations manage workplaces and optimize office space usage.
+title: "The Growth Analytics Pipeline: From Data Modeling to Insights"
+
+description: "End-to-end growth analytics project using Python, DuckDB and dbt to load and transform raw data into analytical marts, define key growth metrics, and generate insights across acquisition, conversion, revenue, and product engagement for a fictional SaaS platform helping organizations manage workplaces and optimize office space usage."
+
 url: "https://emmanuel-nti.github.io"
+
 baseurl: "/OfficePulse_Growth_Analytics_Project"
