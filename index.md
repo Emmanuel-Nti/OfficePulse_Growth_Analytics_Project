@@ -8,7 +8,7 @@ layout: default
 
 ## Project Resources
 
-📘 [Detailed Analysis Notebook](https://nbviewer.org/github/Emmanuel-Nti/OfficePulse_Growth_Analytics_Project/blob/master/officepulse/notebooks/officepulse_growth_analysis.ipynb?v=2) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; ✴️ [Interactive dbt Documentation](https://growth-analytics-dbt-docs.netlify.app/#!/overview)
+📘 [Detailed Analysis Notebook](https://nbviewer.org/github/Emmanuel-Nti/OfficePulse_Growth_Analytics_Project/blob/master/officepulse/notebooks/officepulse_growth_analysis.ipynb?v=4) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; ✴️ [Interactive dbt Documentation](https://growth-analytics-dbt-docs.netlify.app/#!/overview)
 
 
 ## Software and Tools
