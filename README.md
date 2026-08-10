@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is an end-to-end Growth Analytics project designed to demonstrate how marketing, CRM, and product usage data can be integrated to evaluate performance across the customer journey.
+This project is an end-to-end Growth Analytics project for a fictional SaaS platform that helps organisations manage workplaces and optimise office space usage. It demonstrates how marketing, CRM, and product usage data can be integrated to evaluate performance across the customer journey.
 
 The objective is to establish a scalable analytical foundation for understanding **marketing acquisition, funnel conversion, revenue performance, lead cohort performance, and product engagement** using three fictional business datasets.
 
