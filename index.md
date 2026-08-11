@@ -51,12 +51,12 @@ layout: default
 </p>
  
 
-## 🎯 Recommendations, Limitations, and Future Enhancements
+## 🎯 Recommendations and Limitations
 
  <p align ="center">
    <img src = "officepulse/docs/images/recommendation.png" width="900">
 
   <p align ="center">
-   <img src = "officepulse/docs/images/Appendix.png" width="900">
+   <img src = "officepulse/docs/images/limitation.png" width="900">
 
 
