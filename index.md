@@ -51,7 +51,7 @@ layout: default
 </p>
  
 
-## 🎯 Recommendations and Limitations
+## 🎯 Recommendations and Data Limitations
 
  <p align ="center">
    <img src = "officepulse/docs/images/recommendation.png" width="900">
