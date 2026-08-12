@@ -30,7 +30,7 @@ layout: default
    <img src = "officepulse/docs/images/cohort_conversion.PNG">
  </p>
 
-💡 Display consistently achieved the strongest acquisition efficiency, outperforming Paid Search and Paid Social.
+💡 The Display channel consistently achieved the strongest acquisition efficiency, outperforming Paid Search and Paid Social.
 <p align ="center">
    <img src = "officepulse/docs/images/channel_efficiency.PNG" width="850">
  </p>
